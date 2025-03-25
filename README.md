@@ -1,5 +1,5 @@
 ### Hi there, I'm Iago!
-Backend developer and computer engineering undergraduate student.
+Backend Developer and Computer Engineering Undergraduate.
 
 <div align="center">
   <a href="https://github.com/tonelloiago">
